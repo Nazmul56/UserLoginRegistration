@@ -10,8 +10,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import net.simplifiedcoding.userregistrationapp.R;
-
 import java.util.HashMap;
 
 public class ActivityLogin extends AppCompatActivity implements View.OnClickListener{

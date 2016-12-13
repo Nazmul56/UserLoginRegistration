@@ -10,7 +10,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import net.simplifiedcoding.userregistrationapp.R;
 
 import java.util.HashMap;
 
