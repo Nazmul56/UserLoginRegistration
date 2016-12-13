@@ -15,7 +15,7 @@ import java.util.Map;
 import javax.net.ssl.HttpsURLConnection;
 
 /**
- * Created by Belal on 8/6/2015.
+ * Created by Nazmul Haque 12/2016.
  */
 public class RegisterUserClass {
 
